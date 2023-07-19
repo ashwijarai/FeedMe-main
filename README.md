@@ -1,9 +1,9 @@
-# FetchImage
+# FeedMe
 
 
 ## Introduction
 
-This app shows a list of images. Image list are available in vertical and horizontal alignment.
+This app is use to show/hide list of image 
 
  
  ## Architecture:
