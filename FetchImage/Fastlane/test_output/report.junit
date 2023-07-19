@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='FetchImageTests.xctest' tests='1' failures='0'>
+  <testsuite name='FetchImageTests.FetchImageTests' tests='1' failures='0'>
+    <testcase classname='FetchImageTests.FetchImageTests' name='testImages' time='0.220'/>
+  </testsuite>
+</testsuites>
